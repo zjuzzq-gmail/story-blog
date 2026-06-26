@@ -2,3 +2,4 @@ Title: Element
 -----------
 The universe consists of elements.
 There are give elements: Gold, Wood, Water, Fire, and Earth.
+These five elements origin from the start of the universe.
